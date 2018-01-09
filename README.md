@@ -11,3 +11,9 @@ IMAGE_NAMESPACE=yourname rebuild.sh
 ```
 
 This will pull in the [Docker Hub Library's code](https://github.com/docker-library/mysql/tree/master), modify the Dockerfiles to remove any volumes, then build the images.
+
+## Links
+
+Build source: [GitHub](https://github.com/codycraven/docker-mysql-novolume)
+
+Docker images: [Docker Hub](https://hub.docker.com/r/codycraven/mysql-novolume/)
